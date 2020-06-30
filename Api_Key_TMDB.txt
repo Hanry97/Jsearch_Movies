@@ -1,0 +1,7 @@
+API TMDB (The Movie DataBase) pour récupérer toutes sortes de films
+
+API Key (v3 auth) :  102ed36818c99a0a50c7fa561e8c7571
+
+API Read Access Token (v4 auth) :  eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMDJlZDM2ODE4Yzk5YTBhNTBjN2ZhNTYxZThjNzU3MSIsInN1YiI6IjVlZmIyZjNmYzU4NDBkMDAzNDBmYmFhZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ._fmAPWT9PAFQ-d2spbZFZ04yX72mWJngU3jKqvcY2Ag
+
+Example API Request :  https://api.themoviedb.org/3/movie/550?api_key=102ed36818c99a0a50c7fa561e8c7571
