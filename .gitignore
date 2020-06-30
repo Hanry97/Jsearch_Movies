@@ -9,6 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+Api_key_TMDB.txt
 
 # macOS
 .DS_Store
